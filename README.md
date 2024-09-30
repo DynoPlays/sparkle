@@ -12,6 +12,7 @@ Pure immersion.
 ## Download
 
 [![Modrinth][img-modrinth]][url-modrinth]
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&label=Available%20for&color=darkgreen&query=version&url=https://api.blueish.dev/api/minecraft/version?id=FSxxzmTL" />
 
 ## Why use Sparkle over vanilla?
 ### Performance
