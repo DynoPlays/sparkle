@@ -34,5 +34,9 @@ Sparkle ensures that you are getting the latest version of Minecraft, with quick
 > 
 > A: No, there isn't since many mods included in Sparkle aren't on Curseforge. We have also decided to stay away from Curseforge.
 
+> Q: Does this support mobile?
+> 
+> A: No, Sparkle doesn't support mobile as it's only avaiable on java edition. PojavLauncher and other similar projects are also not supported due to incompatibilities between certain mods and PojavLauncher.
+
 [img-modrinth]: <https://img.shields.io/modrinth/dt/htQuHNQq?style=for-the-badge&label=Modrinth&color=darkgreen&labelColor=black&logo=modrinth>
 [url-modrinth]: <https://modrinth.com/modpack/shiny.sparkle>
