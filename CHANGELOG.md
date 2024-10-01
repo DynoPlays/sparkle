@@ -2,6 +2,16 @@
 
 ## 1.21.1
 
+### Sparkle 1.2.5
+
+New Mods:
+- Flow: Adds animations to Minecraft menus.
+- Sounds: Adds some sound effects to the game.
+- Tiny Item Animations: Adds little animations when you pick up or insert items with your mouse.
+- Better Statistics Screen: Improves the statistics screen and makes it more useful.
+
+Fixed resource packs and settings not getting loaded after installation.
+
 ### Sparkle 1.2.0
 New Resource Packs:
 - Sparkle Helper resource pack: Currently only adds a custom Minecraft logo and a logo for the escape menu.
