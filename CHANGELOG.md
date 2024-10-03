@@ -2,6 +2,19 @@
 
 ## 1.21.1
 
+### Sparkle 1.2.6
+
+New Resource Packs:
+- qrafty's Capitalized Font: Adds a custom font to Minecraft.
+- Animated Items: Gives some items an animated texture. (ex: diamonds now shine)
+- Animated Ore: Animates ores so they are easier to spot and overall look prettier.
+- Unobtrusive Weather: Makes rain and snow particles smaller.
+
+New Mods:
+- Clumps: Reduces rendered XP points if there are many in one place.
+
+Fixed some issues after launching the modpack for the first time.
+
 ### Sparkle 1.2.5
 
 New Mods:
