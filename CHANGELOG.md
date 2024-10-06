@@ -2,6 +2,16 @@
 
 ## 1.21.1
 
+### Sparkle 1.2.7
+
+New Resource Packs:
+- GUI Revision Dark Mode: Revamps the dull, repetitive vanilla GUI with a darker and cleaner look.
+
+Removed Resource Packs:
+- Default Dark Mode
+- Default Dark Mode: Expansion
+- qrafty's Capitalized Font
+
 ### Sparkle 1.2.6
 
 New Resource Packs:
