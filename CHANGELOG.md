@@ -2,6 +2,14 @@
 
 ## 1.21.1
 
+### Sparkle 1.3.0
+
+Removed Resource Packs:
+- Animated Ore
+> Ores' texture was glitching out due to a bug in Continuity.
+
+Updated a few mods and resource packs to the latest version. 
+
 ### Sparkle 1.2.7
 
 New Resource Packs:
