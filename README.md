@@ -10,11 +10,11 @@
 Sparkle is a modpack that offers many improvements over vanilla Minecraft. This includes performance mods, such as Sodium, Lithium, etc. and also some vanilla-friendly QoL changes that just make the overall experience way better.
 
 ## Why use Sparkle over vanilla?
-### Performance
+### ⚡ Performance
 Sparkle provides smooth gaming thanks to optimization mods such as Sodium, Lithium, Nvidium and others. The mods that were selected are all carefully selected to ensure a smooth and safe experience.
-### Features
+### 📦 Features
 Sparkle adds quality of life mods to the game, that make the game better without a non-vanilla feeling. These include optifine features, shader support, free singleplayer server hosting and more.
-### Up to Date
+### 🔄️ Up to Date
 Sparkle ensures that you are getting the latest version of Minecraft, with quick updates. Updating Sparkle is easy, worry-free thanks to the Modrinth app.
 
 <details>
