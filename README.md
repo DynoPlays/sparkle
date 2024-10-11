@@ -1,6 +1,6 @@
 <div align="center">
 
-![Sparkle's banner](https://cdn.modrinth.com/data/cached_images/ed3b9d8f95b34ccd35b81eac6115cf1d8aa6b9c5_0.webp)
+![Sparkle's Banner](https://raw.githubusercontent.com/DynoPlays/sparkle/e90a369a5fa38607b010b871d0e3fbb2aeec96fc/Assets/SparkleBanner.png)
 # Sparkle
 Pure performance.
 Pure immersion.
