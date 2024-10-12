@@ -2,6 +2,35 @@
 
 ## 1.21.1
 
+### Sparkle 1.3.4
+
+Added Mods:
+- LambDynamicLights
+> Lights up the space around you when holding a torch, a lantern, etc. just like in Optifine.
+
+Updated Mods:
+- Fabric Language Kotlin `1.12.3`
+
+Removed Mods: 
+- Simple Discord RPC
+> We decided to remove this because Essential already has a built-in Discord rich presence system.
+
+Updated the Fabric Loader `0.16.7`
+
+### Sparkle 1.3.2
+
+Added Mods:
+- Chunky: Adds a feature which allows you can pre-generate chunks in your world.
+- Simple Discord RPC: Gives you a custom Discord rich presence, in this case a Sparkle one.
+
+Updated Mods:
+- Concurrent Chunk Management Engine (Fabric) `0.3.0`
+- Do a Barrel Roll `3.7.1`
+- Symbol Chat `1.2.8`
+
+Disabled Essential's zoom feature.
+> Zoomify already adds a zoom feature to the game.
+
 ### Sparkle 1.3.0
 
 Removed Resource Packs:
