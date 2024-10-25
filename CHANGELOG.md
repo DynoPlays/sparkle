@@ -2,6 +2,47 @@
 
 ## 1.21.1
 
+### Sparkle 1.4.0
+
+Added Mods:
+- Text Formatting Everywhere
+> Allows the use of Minecraft's text formatting anywhere.
+- InvMove
+> Allows you to move while keeping your inventory open.
+- Particular
+> Adds custom particles and enhances some vanilla ones.
+- Music Notification
+> Displays a toast notification when music is played in a nearby jukebox. It also adds a client-side jukebox GUI where you can play music discs anywhere. (only you can hear it)
+- Scribble
+> Gives formatting options for books and makes editing them overall easier.
+
+Updated Mods:
+- Chat Heads `0.13.4`
+- Clean F3 `0.4.8`
+- Concurrent Chunk Management Engine `0.3.0+alpha.0.292`
+- CICADA `0.9.0`
+- Do a Barrel Roll `3.7.2`
+- Resourcify `1.5.0.1`
+- WorldEdit `7.3.8`
+- Essential Mod `1.3.4.3`
+- M.R.U `1.0.3`
+
+Added Resource Packs:
+- Fancy Crops
+> Makes crops look overall nicer.
+- Mob Crates
+> Replaces the spawn eggs' texture with mobs in crates.
+- Visual Armor Trims
+> Gives the armor of your choice a texture that shows what armor trim it has.
+- Simple Grass Flowers
+> Gives a few ground blocks randomly spawning flower textures. 
+- Blockstates +
+> Gives certain blocks some more blockstate textures.
+- Flower Pots +
+> Gives the flower pot a better texture.
+- Colourful Pots
+> Gives the flower pot a colorful texture based on what is planted in it. (add-on for Flower Pots +)
+
 ### Sparkle 1.3.4
 
 Added Mods:
