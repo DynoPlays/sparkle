@@ -1,7 +1,7 @@
 ---
 name: "Bug report \U0001F41B"
 about: "Something isn't working \U0001F527"
-title: BUG
+title: "[BUG] "
 labels: bug
 assignees: DynoPlays
 
