@@ -1,8 +1,8 @@
 <div align="center">
 
-![Sparkle's Banner](https://raw.githubusercontent.com/DynoPlays/sparkle/e90a369a5fa38607b010b871d0e3fbb2aeec96fc/Assets/SparkleBanner.png)
+![Sparkle's Banner](https://github.com/DynoPlays/sparkle/blob/main/Assets/sparklebanner.png?raw=true)
 [![Available on Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/shiny.sparkle)
-[![Chat with us on Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/DdW6y4Zd37)
+[![Chat with us on Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/WJDhNVxn89)
 [![Available for Fabric](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/supported/fabric_vector.svg)](https://modrinth.com/modpack/shiny.sparkle/versions?l=fabric)
 </div>
 
