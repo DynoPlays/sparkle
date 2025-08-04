@@ -14,7 +14,7 @@ It has been 9 months since the last release of **Sparkle ✨** and we're back be
 - Sparkle is now **completely client-sided** and doesn't affect the server at all.
 
 ### What's next?
-Sparkle will receive more updates and we're working on a version featureing **NeoForge 🦊** instead of Fabric, so you can play with your favourite mods such as Create, etc. This doesn't mean we'll ever stop supporting the Fabric version.
+Sparkle will receive more updates and we're working on a version featuring **NeoForge 🦊** instead of Fabric, so you can play with your favourite mods such as Create, etc. This doesn't mean we'll ever stop supporting the Fabric version.
 
 Thank you for all the support :)
 
