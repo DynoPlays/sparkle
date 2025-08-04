@@ -1,5 +1,23 @@
 # Sparkle Changelogs
 
+## 1.21.5
+
+### Sparkle 2.0.0
+
+### Welcome back! 😎
+
+It has been 9 months since the last release of **Sparkle ✨** and we're back better than ever! Here is a little teaser:
+
+- Our modpack is no longer based off of Fabulously Optimized, meaning Sparkle is faster than ever!
+- We've removed all custom block textures, animations, etc. to solely focus on improving the user experience while keeping the default vanilla feel.
+- We've added a BUNCH of brand new QoL features to Minecraft to make your lives even easier without feeling like you're using cheats.
+- Sparkle is now **completely client-sided** and doesn't affect the server at all.
+
+### What's next?
+Sparkle will receive more updates and we're working on a version features **NeoForge 🦊** instead of Fabric, so you can play with your favourite mods such as Create, etc.
+
+Thank you for all the support :)
+
 ## 1.21.1
 
 ### Sparkle 1.4.0
