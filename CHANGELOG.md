@@ -2,6 +2,34 @@
 
 ## 1.21.5
 
+### Sparkle 2.1.0
+
+Hello everybody! We're back with a small update, we've added a few new features and updated some mods 'n resource packs to enhance your experience even further. ✨🌠
+
+Added projects:
+> This includes mods and resource packs. Dependencies for added mods are not included in this list.
+- Respackopts 
+  - Allows the user to configure supported resource packs
+- Hold My Items
+  - Introduces more first-person animations that feel smoother, yet they're still similar to vanilla
+
+Updated projects:
+> This includes mods and resource packs.
+- Fabric API
+  - `0.128.1+1.21.5` ➡️ `0.128.2+1.21.5`
+- Controlify
+  - `2.2.1` ➡️ `2.3.0`
+- 3D Skin Layers
+  - `1.8.2` ➡️ `1.9.0`
+- Translations for Sodium
+  - `v4.48.0` ➡️ `v4.49.0`
+
+Removed projects:
+> This includes mods and resource packs.
+- First-person Model
+
+Bumped Fabric version from `0.16.14` to `0.17.2`
+
 ### Sparkle 2.0.0
 
 ### Welcome back! 😎
