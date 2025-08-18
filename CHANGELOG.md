@@ -2,6 +2,30 @@
 
 ## 1.21.5
 
+### Sparkle 2.1.5
+
+Hey hey hey! We're back with yet another update, to make your satisfaction go brrr 🔥🔥🔥
+
+Added projects:
+> This includes mods and resource packs. Dependencies for added mods are not included in this list.
+- Pickup Notifications
+  - Shows recently picked up items at the corner of the screen at a glance. Serves as a replacement to Pick Up Notifier.
+- Detail Armor Bar Reconstructed
+  - Adds little details to the armor bar, such as the types of the armor you are wearing, etc.
+
+Updated projects:
+> This includes mods and resource packs.
+- Fabric Language Kotlin
+  - `1.13.4+kotlin.2.2.0` ➡️ `1.13.5+kotlin.2.2.10`
+- Polytone
+  - `1.21.5-3.5.8` ➡️ `1.21.5-3.5.11`
+- Searchables
+  - `1.0.2` ➡️ `1.0.3`
+
+Removed projects:
+> This includes mods and resource packs.
+- Pick Up Notifier
+
 ### Sparkle 2.1.0
 
 Hello everybody! We're back with a small update, we've added a few new features and updated some mods 'n resource packs to enhance your experience even further. ✨🌠
